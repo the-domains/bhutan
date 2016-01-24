@@ -1,0 +1,28 @@
+name: Bhutan
+favicon: null
+layout_spectrum: 0.5111969974823296
+typography_spectrum: 0.11212134221568704
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.661383509170264
+  lightness: 0.37232275726273656
+  saturation: 0.4864122080616653
+  rhythmicContrast: 0.171764848055318
+purpose: []
