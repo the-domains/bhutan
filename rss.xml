@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Utazzon Bhutánba Valcsicsák Zoltánnal]]></title>
+        <description><![CDATA[Utazzon Bhutánba Valcsicsák Zoltánnal]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 30 Jan 2016 05:06:42 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Találkozzon az "Álmomban Bhutánban ébredtem" c. könyv szereplőivel!]]></title>
+            <description><![CDATA[<article><h1>Találkozzon az "Álmomban Bhutánban ébredtem" c. könyv szereplőivel!</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ad591e3f154fdc588b8ffd9cf4fee2d2a1899369.jpg"></article>]]></description>
+            <link>undefinedismerkedjen-meg-az-almomban-bhutanban-ebredtem-c-konyv-sz/index.html</link>
+            <guid isPermaLink="false">409c6c38-2bc6-4b6a-9273-86a10bf1d8c9</guid>
+            <pubDate>Sat, 30 Jan 2016 05:06:18 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
